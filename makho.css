@@ -10,13 +10,11 @@ body {
 .jamaicadiv{
   color: green;
   float: right;
-  background-color: red;
   align: center;
   margin-left: 50px;
 }
 .thirddiv {
 align: center;
-background-color: yellow;
 margin-top: 10px;
 margin-left:50px;
 }
@@ -33,7 +31,6 @@ margin-left:50px;
   align: right;
   overflow: auto;
   margin-right: 28em;
-  background-color: blue;
 }
 
 .tablestyle, th, td{
@@ -46,12 +43,9 @@ margin-left:50px;
 }
 .bridgeDiv {
   margin-left: 50px;
-  background-color: green;
-
 }
 .africanDiv, ul {
   text-align: left;
-  background-color: red;
   overflow: auto;
 }
 .africanDiv {
