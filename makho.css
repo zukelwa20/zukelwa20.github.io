@@ -1,0 +1,69 @@
+body {
+  background-color: powderblue;
+}
+
+.Firstdiv {
+  color: blue;
+  text-align: center;
+  margin-left: 50px;
+}
+.jamaicadiv{
+  color: green;
+  float: right;
+  background-color: red;
+  align: center;
+  margin-left: 50px;
+}
+.thirddiv {
+align: center;
+background-color: yellow;
+margin-top: 10px;
+margin-left:50px;
+}
+.thirddiv, p{
+  margin-top: 10px;
+}
+
+.bridgeDiv, h5 {
+  font-size: 16px;
+  overflow: auto;
+}
+.clocktowerDiv, h6 {
+  font-size: 16px;
+  align: right;
+  overflow: auto;
+  margin-right: 28em;
+  background-color: blue;
+}
+
+.tablestyle, th, td{
+  border: 1px solid black;
+  width: 500px;
+  margin-left: 50px;
+  margin-left: 24em;
+  border-collapse: collapse;
+
+}
+.bridgeDiv {
+  margin-left: 50px;
+  background-color: green;
+
+}
+.africanDiv, ul {
+  text-align: left;
+  background-color: red;
+  overflow: auto;
+}
+.africanDiv {
+  overflow: auto;
+  margin-left: 50px;
+
+.clocktowerDiv {
+  margin-left: 50px;
+}
+.clocktowerdiv ,ul {
+  margin-left: 15px;
+}
+#Swingbridge {
+      margin-right: 23em;
+}
